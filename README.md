@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daizhanzhan-2021
 - 👀 I’m interested in football,java and sleep
 - 🌱 I’m currently learning DDD
-- 💞️ I’m looking to collaborate on java,outsystems,DDD and 
+- 💞️ I’m looking to collaborate on java,outsystems and DDD
 📫 How to reach me ...
 
 <!---
