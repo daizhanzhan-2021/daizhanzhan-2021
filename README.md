@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhanzhan Dai
-- 👀 I’m interested in football,java and sleep
+- 👀 I’m interested in Football,Java and Sleep
 - 🌱 I’m currently learning DDD
-- 💞️ I’m looking to collaborate on java,outsystems and DDD
+- 💞️ I’m looking to collaborate on Java,Outsystems and DDD
 - 📫 How to reach me : daizhanzhan2021@126.com
 
 <!---
