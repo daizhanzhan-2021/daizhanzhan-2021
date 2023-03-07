@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zhanzhan Dai,I'm a software architecture engineer
-- 👀 I’m interested in Football,my favorite team is LiverPool
-- 🌱 I’m currently learning DDD
-- 💞️ I’m looking to collaborate on Java,Outsystems and DDD
+- 👋 Hi, I’m Zhanzhan Dai,I'm a human.
+- 👀 I’m yearn for freedom.
+- 🌱 I’m currently learning golang.
+- 💞️ I’m looking to collaborate on Java,.Net,Golang,Blockchain...
 - 📫 How to reach me : daizhanzhan2021@126.com
 
 <!---
